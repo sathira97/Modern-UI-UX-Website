@@ -1,8 +1,7 @@
 import React from 'react'
 import styles from './style';
 
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
+import { Billing, Business, Button, CardDeal, CTA, FedbackCard, Footer, GetStarted, Hero, Navbar, Stats, Testimonials } from './components';
 
 const App = () => (
 
